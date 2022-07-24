@@ -1,1 +1,6 @@
 /.idea
+/node_modules
+/front-end/node_modules
+/front-end/test
+/front-end/static
+/front-end/store
